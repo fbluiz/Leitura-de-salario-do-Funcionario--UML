@@ -52,21 +52,6 @@ namespace seção_9.entities
 
             return soma;
         }
-
-
-
-
-
-
-
-      
-    
-    
-    
-    
-    
-    
-    
     }
 
 }
