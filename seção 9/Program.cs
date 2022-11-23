@@ -37,10 +37,6 @@ namespace Seção9
                 int horas = int.Parse(Console.ReadLine());
 
                 ContratoHora contrato1 = new ContratoHora(valor, data, horas);
-               
-
-                
-
             }
 
             Console.WriteLine();
